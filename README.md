@@ -69,4 +69,4 @@ Scenario-dependent: For creative tasks, unstructured prompts can sometimes yield
 Recommendation: Use specific instructions, context, and expected output format to get optimal results from AI.
 
 # RESULT: 
-The prompt for the above said problem executed successfully
+The experiment was successfully conducted by comparing naïve and structured prompts across multiple scenarios. The results show that structured prompts consistently generate higher-quality, more detailed, and better-organized responses compared to naïve prompts, demonstrating the importance of prompt clarity when interacting with AI systems.
