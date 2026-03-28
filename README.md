@@ -3,11 +3,8 @@
 ### NAME : MOENISH BAALAN G
 ### REGISTER NUMBER : 212223220087
 
-# Aim:
+# Aim: 
 To test and compare how different pattern models respond to various prompts (broad or unstructured) versus basic prompts (clearer and more refined) across multiple scenarios.  Analyze the quality, accuracy, and depth of the generated responses 
-
-### AI Tools Required: 
-ChatGPT or any AI language model
 
 # Explanation: 
 Define the Two Prompt Types:
@@ -36,37 +33,9 @@ Analysis of how prompt clarity impacts the quality, accuracy, and depth of ChatG
 Summary of findings with insights on how to structure prompts for optimal results when using ChatGPT.
 
 
-# OUTPUT
+# OUTPUT:
+[ex05.pdf](https://github.com/user-attachments/files/26320349/ex05.pdf)
 
-<img width="987" height="460" alt="image" src="https://github.com/user-attachments/assets/7d1d74f1-1c10-459d-9e56-741c4bec2895" />
-
-
-# Results Table :
-
-<img width="1162" height="538" alt="image" src="https://github.com/user-attachments/assets/fd8ea9a5-9b31-4344-90b0-7dfa5773542e" />
-
-# Analysis
-
-Impact of Prompt Clarity:
-
-Basic prompts consistently produce higher-quality, more accurate, and deeper responses.
-
-Exceptions:
-
-In some creative tasks, naïve prompts can generate equally engaging responses but may lack structure.
-
-Insight:
-
-The more context and structure provided, the better AI can tailor its responses to the user’s expectations.
-
-
-# Summary of Findings
-
-Clarity matters: Structured prompts improve response relevance and depth.
-
-Scenario-dependent: For creative tasks, unstructured prompts can sometimes yield surprising creativity.
-
-Recommendation: Use specific instructions, context, and expected output format to get optimal results from AI.
 
 # RESULT: 
-The experiment was successfully conducted by comparing naïve and structured prompts across multiple scenarios. The results show that structured prompts consistently generate higher-quality, more detailed, and better-organized responses compared to naïve prompts, demonstrating the importance of prompt clarity when interacting with AI systems.
+The prompt for the above said problem executed successfully demonstrating the importance of prompt clarity when interacting with AI systems.
